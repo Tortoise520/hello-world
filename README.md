@@ -1,2 +1,2 @@
 # hello-world
-i love coding.
+>A repository for practicing using git.
